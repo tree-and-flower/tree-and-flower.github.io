@@ -4,7 +4,7 @@
   <subtitle><![CDATA[一个充满爱的博客]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-05-08T07:20:11.000Z</updated>
+  <updated>2015-05-08T08:46:22.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,10 +19,10 @@
     <link href="http://yoursite.com/2015/05/08/first/"/>
     <id>http://yoursite.com/2015/05/08/first/</id>
     <published>2015-05-08T06:32:10.000Z</published>
-    <updated>2015-05-08T07:20:11.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="first_try">first try</h3>]]></content>
+    <updated>2015-05-08T08:46:22.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="很不错的博客系统">很不错的博客系统</h3>]]></content>
     <summary type="html">
-    <![CDATA[<h3 id="first_try">first try</h3>]]>
+    <![CDATA[<h3 id="很不错的博客系统">很不错的博客系统</h3>]]>
     </summary>
     
   </entry>
